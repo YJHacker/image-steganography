@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.stackdump
+.DS_Store
+carrier.png
+secret.png
